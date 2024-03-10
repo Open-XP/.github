@@ -31,9 +31,9 @@ Openxp's work directly tackles societal challenges in Africa by:
 * *Contributing to Sustainable Development Goals*: Through education, we indirectly support other goals like health awareness and climate change education.
 
 ## Contribute
-Join us in our mission to transform education with AI and ML. Whether you're a developer, educator, or enthusiast, your contribution can make a difference. Check out our (#Contribution Guidelines to get started)[].
+Join us in our mission to transform education with AI and ML. Whether you're a developer, educator, or enthusiast, your contribution can make a difference. Check out our [Contribution Guidelines to get started]().
 
 ## Contact
-For more information about Openxp, our projects, or how you can get involved, please visit our website or reach out to us directly through (#Link)[mqnifestkelvin@gmail.com].
+For more information about Openxp, our projects, or how you can get involved, please visit our website or reach out to us directly through [Link](mqnifestkelvin@gmail.com).
 
 Together, we can bridge the educational divide with technology.
