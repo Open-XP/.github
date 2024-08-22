@@ -1,5 +1,4 @@
 # Openxp
-## [Website](http://openxp.study)
 ## About Openxp
 Openxp is an innovative edutech startup with a mission to make quality education accessible to everyone, regardless of their location or economic status. By leveraging the power of Artificial Intelligence (AI) and Machine Learning (ML), we are dedicated to transforming the educational landscape in Africa and beyond. Our platform provides tailored educational content that adapts to individual learning styles, making learning more effective and engaging.
 
